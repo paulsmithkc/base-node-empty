@@ -1,1 +1,1 @@
-# base-node-empty
+# Bare Node.js Repository
